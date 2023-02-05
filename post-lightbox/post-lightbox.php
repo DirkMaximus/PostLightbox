@@ -5,13 +5,13 @@
 	*
 	* @package       PLB
 	* @author        Sean Carner
-	* @version       0.0.1
+	* @version       0.0.2
 	*
 	* @wordpress-plugin
 	* Plugin Name:   PostLightbox
 	* Plugin URI:    https://developub.com/post-lightbox
 	* Description:   Actual simple plugin to lightbox-ify your posts 
-	* Version:       0.0.1
+	* Version:       0.0.2
 	* Author:        Developub
 	* Author URI:    https://developub.com
 	* Text Domain:   plb
